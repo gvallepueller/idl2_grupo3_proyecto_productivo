@@ -28,7 +28,8 @@ En grupo resolver los ejercicios propuestos en los archivos:
 ### Estructura del proyecto: 
 En el presente repositorio se encuentra: 
 1. Carpeta "Ejercicios" con los archivos originales en pdf con los ejercicios propuestos.
-2. El archivo de usando como terminal en el en el colab para subir al repositorio en git: *"0_Terminal_Comandos_Git.ipynb"*.
+2.  Un archivo ignorado en el commit que es colab usado como terminal para subir al repositorio en git: 
+	- "0_Terminal_Comandos_Git.ipynb". Este archivo se **IGNORA** con gitignore para no generar conflictos
 3.  Un total de 3 archivos en colab con la solución a cada uno de los archivos respectivamente:
 	- 1_Secuenciales_Solución.ipynb.
 	- 2_Condicionales_Solución.ipynb.
