@@ -27,7 +27,7 @@ En grupo resolver los ejercicios propuestos en los archivos:
 
 ### Estructura del proyecto: 
 En el presente repositorio se encuentra: 
-1. Carpeta "Ejercicios" con los archivos originales en pdf con los ejercicios propuestos.
+1. Carpeta "PDFs de los Ejercicios propuestos" con los archivos originales en pdf con los ejercicios propuestos.
 2.  Un archivo ignorado en el commit que es colab usado como terminal para subir al repositorio en git: 
 	- "0_Terminal_Comandos_Git.ipynb". Este archivo se **IGNORA** con gitignore para no generar conflictos
 3.  Un total de 3 archivos en colab con la solución a cada uno de los archivos respectivamente:
